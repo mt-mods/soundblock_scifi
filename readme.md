@@ -11,3 +11,6 @@
 
 * sounds/soundblock_scifi_ambient_1.ogg
 * https://freesound.org/people/jacobalcook/sounds/195563/
+
+* sounds/soundblock_scifi_ambient_2.ogg
+* https://freesound.org/people/SolarPhasing/sounds/436041/
