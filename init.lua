@@ -17,5 +17,11 @@ soundblock.register({
   name = "Scifi sound engine 3"
 })
 
+soundblock.register({
+  filename = "soundblock_scifi_ambient_1",
+  key = "soundblock_scifi_ambient_1",
+  name = "Scifi sound ambient 1"
+})
+
 
 print("[OK] soundblock_scifi")
