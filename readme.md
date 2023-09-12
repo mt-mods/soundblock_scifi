@@ -1,5 +1,10 @@
 
 
+# Licenses
+
+* Code: `MIT`
+* Other assets: see links below
+
 * soundblock_scifi_space_engine
 * https://freesound.org/people/rhodesmas/sounds/321723/
 
